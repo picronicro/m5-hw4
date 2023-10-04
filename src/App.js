@@ -7,7 +7,7 @@ function App(props) {
         <div>
             <Navbar />
             <ProductsPage />
-            <footer>m5-hw4</footer>
+            <footer>m5-hw5: hw4 edition</footer>
         </div>
     );
 }
